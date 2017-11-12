@@ -1,6 +1,7 @@
 //Damian Gavin 18/10/17
 //using cookies as a counter
 //track how many times a user has been to your website domain
+//adapted from https://github.com/GoesToEleven
 
 package main
 
